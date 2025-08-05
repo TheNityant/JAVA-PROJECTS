@@ -12,8 +12,8 @@ Below is a list of the projects currently in this repository. Each project is co
 
 | Project Name      | Description                                     | Key Concepts Practiced                      |
 | ----------------- | ----------------------------------------------- | ------------------------------------------- |
-| **RiddleGame** | A simple, interactive riddle game on the console. | `Scanner`, `Control Flow`, `Arrays`, `Loops`|
-| *(add new project here)* | *(add description here)* | *(add concepts here)* |
+| **WordRiddleGame** | A simple, interactive riddle game on the console. | `Scanner`, `Control Flow`, `Arrays`, `Loops`|
+| *(New project incoming)* | *(description incoming)* | *( future concepts )* |
 
 
 ## How to Run
