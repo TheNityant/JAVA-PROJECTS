@@ -43,6 +43,11 @@ I plan to continuously add new projects to this repository, exploring more advan
 -   GUI applications with JavaFX or Swing
 -   Web applications with Spring Boot
 -   Database connectivity with JDBC
+-   Machine Learning implementations using Java libraries
+
+## Learning Resources
+
+📚 **[Machine Learning Roadmap](ML_ROADMAP.md)** - A comprehensive guide for Java developers interested in learning Machine Learning, including Java-specific libraries, project ideas, and career paths.
 
 ---
 Feel free to explore the code!
